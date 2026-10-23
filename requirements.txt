@@ -1,0 +1,11 @@
+# Dependencies for the uploaded CPU clustering/FCA notebook.
+# Exact original research environment versions are not available.
+numpy
+pandas
+scikit-learn
+matplotlib
+seaborn
+hdbscan
+concepts
+graphviz
+notebook
